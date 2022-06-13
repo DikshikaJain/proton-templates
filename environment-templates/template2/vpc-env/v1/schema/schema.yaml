@@ -10,7 +10,7 @@ schema:
         vpc_name:
           type: string
           description: "This is name for your VPC"
-          default: proton-demo
+          default: proton-demo-vpc
         vpc_cidr:
           type: string
           description: "This CIDR range for your VPC"
