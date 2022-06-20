@@ -19,7 +19,7 @@ schema:
         aws_region:
           type: string
           description: "This is your aws region"
-          default: ew-west-2
+          default: eu-west-2
         project_environment:
           type: string
           description: "This name for project env"
